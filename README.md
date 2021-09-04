@@ -1,4 +1,8 @@
-### Hi there! Welcome to my den :D
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Vignesh+Ponraj....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vigneshponraj1997/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dimwitter.wordpress.com/)
