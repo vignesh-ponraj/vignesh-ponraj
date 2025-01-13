@@ -16,7 +16,10 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,alpinejs,anaconda,androidstudio,aws,bootstrap,c,cs,cpp,)](https://skillicons.dev)
+
+<!-- go to this link for more skill icons - https://github.com/tandpfun/skill-icons
+-->
 <!--
 **vignesh-ponraj/vignesh-ponraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
